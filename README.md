@@ -3,7 +3,7 @@ Flowbot
 
 > This experiment is currently in development, and not yet recommended for use in production environments
 
-[![Build Status](https://travis-ci.org/manywho/experiment-flowbot.svg?branch=develop)](https://travis-ci.org/manywho/experiment-flowbot)
+[![Build Status](https://travis-ci.org/manywho/experiment-flowbot.svg)](https://travis-ci.org/manywho/experiment-flowbot)
 
 This experiment is a Slack bot that allows you to run your Boomi Flow apps inside of Slack, using slash commands and 
 interactive messages.
