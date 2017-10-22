@@ -1,0 +1,8 @@
+{
+  "name": "Flowbot",
+  "description": "A Slack bot used to run Boomi Flow apps inside of Slack",
+  "repository": "https://github.com/manywho/experiment-flowbot",
+  "logo": "https://s3.amazonaws.com/manywho-service-assets/icons/experiment-flowbot.png",
+  "keywords": ["manywho", "slack", "ai", "experiment", "plugin", "workflow", "bot", "boomi"]
+}
+
