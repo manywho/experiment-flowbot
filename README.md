@@ -8,6 +8,10 @@ Flowbot
 This experiment is a Slack bot that allows you to run your Boomi Flow apps inside of Slack, using slash commands and 
 interactive messages.
 
+It makes some assumptions about flow responses, like:
+
+* If a flow returns a page element, with a single input and single outcome, the input isn't shown and the user's reply is sent as the value, etc.
+
 ## Running
 
 The bot is compatible with Heroku, and can be deployed by clicking the button below:

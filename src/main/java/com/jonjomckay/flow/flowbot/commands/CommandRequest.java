@@ -18,6 +18,9 @@ public class CommandRequest {
     @FormParam("trigger")
     private String trigger;
 
+    @FormParam("user_id")
+    private String user;
+
     public String getChannel() {
         return channel;
     }
@@ -36,5 +39,9 @@ public class CommandRequest {
 
     public String getTrigger() {
         return trigger;
+    }
+
+    public String getUser() {
+        return user;
     }
 }
