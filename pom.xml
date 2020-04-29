@@ -43,7 +43,7 @@
         <dependency>
             <groupId>com.github.seratch</groupId>
             <artifactId>jslack</artifactId>
-            <version>1.0.13</version>
+            <version>3.4.2</version>
         </dependency>
         <dependency>
             <groupId>com.manywho.sdk</groupId>
